@@ -1,3 +1,24 @@
+<h3> Screenshots</h3>
+<img width="1909" height="988" alt="image" src="https://github.com/user-attachments/assets/8a1ddfcd-673d-4c35-889b-b690c8b118ad" />
+<img width="1910" height="947" alt="image" src="https://github.com/user-attachments/assets/c8a17fce-2cef-4f0d-80b6-c720991e2fc0" />
+<img width="1900" height="952" alt="image" src="https://github.com/user-attachments/assets/8ba20338-1ed6-40f6-9212-875696820d4e" />
+<img width="1890" height="953" alt="image" src="https://github.com/user-attachments/assets/31cff337-a9e8-4c67-bc43-d8c2b0448287" />
+
+
+
+
+Admin Credintials
+=================
+admin@example.com
+@dmin!@3
+
+clone from Github
+1. npm install
+2. composer install
+3. Run Migrations or Import Db from folder
+4. one panel run "npm run dev"
+5. another one "php artisan serve"
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
